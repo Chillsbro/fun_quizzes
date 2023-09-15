@@ -5,19 +5,35 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2ba263aa-5be1-4f57-8553-0975a1414cfe" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Questions/CheckBoxQuestion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Questions/MultipleChoiceQuestion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Questions/Question.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Questions/TrueOrFalseQuestion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Question.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Quiz.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Quiz.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/QuizRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/QuizRunner.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 3
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
   <component name="ProjectId" id="2VMonyxMDphHL4p9jkAExwlzHrq" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -28,6 +44,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master"
   }
 }]]></component>
