@@ -8,7 +8,7 @@ public class CheckBoxQuestion extends Question {
         super(question, answer);
     }
 
-    // Method
+
     public boolean checkAnswer(String answer) {
          return answer.contains(this.getTheAnswer());
 
